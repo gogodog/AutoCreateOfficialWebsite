@@ -1,4 +1,4 @@
-package com.zjyx.huahua.plugin.es;
+package com.zjyx.acow.plugin.es;
 
 import java.net.InetAddress;
 import java.util.Properties;

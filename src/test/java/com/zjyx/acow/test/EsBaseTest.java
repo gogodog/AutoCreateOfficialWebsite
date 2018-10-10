@@ -1,4 +1,4 @@
-package com.zjyx.huahua.test;
+package com.zjyx.acow.test;
 
 import java.util.Date;
 
@@ -8,8 +8,8 @@ import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.test.context.ContextConfiguration;
 import org.springframework.test.context.junit4.SpringJUnit4ClassRunner;
 
-import com.zjyx.huahua.plugin.es.BaseEsMapping;
-import com.zjyx.huahua.test.model.Person;
+import com.zjyx.acow.plugin.es.BaseEsMapping;
+import com.zjyx.acow.test.model.Person;
 
 @RunWith(SpringJUnit4ClassRunner.class)  
 @ContextConfiguration(locations = "classpath:spring-*.xml") 

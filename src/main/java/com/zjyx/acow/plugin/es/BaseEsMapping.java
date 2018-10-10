@@ -1,4 +1,4 @@
-package com.zjyx.huahua.plugin.es;
+package com.zjyx.acow.plugin.es;
 
 import org.elasticsearch.action.delete.DeleteResponse;
 import org.elasticsearch.action.index.IndexRequestBuilder;

@@ -1,8 +1,5 @@
-package com.zjyx.huahua.test.model;
+package com.zjyx.acow.test.model;
 
-import java.util.Date;
-
-import com.alibaba.fastjson.JSON;
 
 public class Person {
 
