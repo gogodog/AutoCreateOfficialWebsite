@@ -27,7 +27,7 @@
 	</properties>
 	
     <build>
-       <finalName>huahua</finalName>
+       <finalName>acow</finalName>
        <plugins>
            <plugin>
               <groupId>org.apache.maven.plugins</groupId>

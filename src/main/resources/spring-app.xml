@@ -24,7 +24,7 @@
     </bean>      
                         
     <!-- elasticsearch配置 -->
-    <bean id="esTransportClient" class="com.zjyx.huahua.plugin.es.ESTransportClient">
+    <bean id="esTransportClient" class="com.zjyx.acow.plugin.es.ESTransportClient">
         <property name="clusterNodes" value="${clusterNodes}" />
         <property name="clusterName" value="${clusterName}" />
         <property name="clientPingTimeout" value="${clientPingTimeout}" />
